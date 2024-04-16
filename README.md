@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+Note If this app doesn't work properly in chrome browser then switch to Safari Browser.
 This Project is made with react app in which it will fetch the dummy data and provide the infinte scroll functionality
 ![Screenshot 2024-04-16 at 2 33 24 PM](https://github.com/sivistinsam/collegeduniya/assets/57314972/7b0f3a1e-4491-472a-812f-e5eb3641bfa8)
 ![Screenshot 2024-04-16 at 2 33 44 PM](https://github.com/sivistinsam/collegeduniya/assets/57314972/db708813-9fd1-4d66-91e4-f520173dcea5)
